@@ -9,13 +9,13 @@
     <parameter name="browser" value="firefox"/>
     <parameter name="screen" value="wnidow"/>
     <classes>
-      <class name="testCases.TC_Content_Check">
+      <class name="testCases.TC_SEO">
         <methods>
           <include name="TC_Content_Check"/>
           <include name="tearDown"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- testCases.TC_Content_Check -->
+      </class> <!-- testCases.TC_SEO -->
     </classes>
   </test> <!-- Aenglo App Test(failed) -->
 </suite> <!-- Failed suite [Aenglo_Sco] -->

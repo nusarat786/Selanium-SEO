@@ -37,7 +37,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
   <testcase classname="testCases.BaseClass" name="@AfterClass tearDown" time="0.0">
     <skipped/>
   </testcase> <!-- @AfterClass tearDown -->
-  <testcase classname="testCases.TC_Content_Check" name="TC_Content_Check" time="0.0">
+  <testcase classname="testCases.TC_SEO" name="TC_Content_Check" time="0.0">
     <skipped/>
   </testcase> <!-- TC_Content_Check -->
 </testsuite> <!-- Default test -->
