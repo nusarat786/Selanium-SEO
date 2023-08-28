@@ -4,3 +4,4 @@ This Genrates Report Example.
 ![image](https://github.com/nusarat786/selanium_modal/assets/95936097/07414835-23c0-4e2a-a3b4-894cf90e7024)
 
 I have attached example report
+https://github.com/nusarat786/Selanium-SEO/blob/main/example%20report.html
